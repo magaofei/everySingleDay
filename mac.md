@@ -1,7 +1,7 @@
-PHP
+PHP 
 
 ```shell
-The php.ini file can be found in:
+The php.ini file can be found in: 
     /usr/local/etc/php/7.1/php.ini
 
 ✩✩✩✩ Extensions ✩✩✩✩
